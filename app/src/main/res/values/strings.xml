@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Algorithm</string>
+    <string name="check_string">Check String</string>
+    <string name="current_string_txt">Current String</string>
+    <string name="repeat_count">Lütfen tekrarlama sayisini girin</string>
+    <string name="text">Lütfen text girin</string>
+    <string name="repeat_count_error_1">Tekrarlama sayısı alanı boş kalamaz!</string>
+    <string name="repeat_count_error_2">Text alanı boş kalamaz!</string>
+</resources>
